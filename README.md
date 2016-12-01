@@ -16,3 +16,11 @@ gem 'car_model', github: 'coderslab/car_model'
 .first zwraca pierwsze auto z bazy
 .last zwraca ostatnie auto z bazy
 .find(id) zwraca auto o id=#{ID} z bazy
+
+## Testy
+
+Testy uruchamiamy poprzez:
+
+```
+rake 
+```
