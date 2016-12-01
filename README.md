@@ -22,5 +22,13 @@ gem 'car_model', github: 'coderslab/car_model'
 Testy uruchamiamy poprzez:
 
 ```
-rake 
+rake
+```
+
+## RuboCop
+
+Rubocopa uruchamiamy poprzez:
+
+```
+rake rubocop
 ```
