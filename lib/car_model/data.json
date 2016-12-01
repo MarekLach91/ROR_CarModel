@@ -1,0 +1,15 @@
+{
+  "1": {"id": 1, "name": "Up", "brand": "Volkswagen", "price": 36930},
+  "2": {"id": 2, "name": "Polo", "brand": "Volkswagen", "price": 44990},
+  "3": {"id": 3, "name": "Golf", "brand": "Volkswagen", "price": 63090},
+  "4": {"id": 4, "name": "Touran", "brand": "Volkswagen", "price": 84490},
+  "5": {"id": 5, "name": "Touareg", "brand": "Volkswagen", "price": 236790},
+  "6": {"id": 6, "name": "Citigo", "brand": "Škoda", "price": 35970},
+  "7": {"id": 7, "name": "Fabia", "brand": "Škoda", "price": 40380},
+  "8": {"id": 8, "name": "Rapid", "brand": "Škoda", "price": 50050},
+  "9": {"id": 9, "name": "Octavia", "brand": "Škoda", "price": 62960},
+  "10": {"id": 10, "name": "Superb", "brand": "Škoda", "price": 88410},
+  
+  "first": "1",
+  "last": "10"
+}
