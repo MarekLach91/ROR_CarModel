@@ -7,7 +7,7 @@ Biblioteka do pracy w trzecim module kursu Ruby on Rails (Dzien 1/2, część 5 
 Dodaj tę linijkę do Gemfile'a swojej aplikacji:
 
 ```ruby
-gem 'car_model', github: 'coderslab/car_model'
+gem 'car_model', github: 'coderslab/ror_car_model'
 ```
 
 ## Instrukcja
