@@ -12,10 +12,10 @@ gem 'car_model', github: 'coderslab/ror_car_model'
 
 ## Instrukcja
 
-.all zwraca listę wszystkich aut w bazie w tablicy (Podpowiedź: po tablicy możesz iterować)
-.first zwraca pierwsze auto z bazy
-.last zwraca ostatnie auto z bazy
-.find(id) zwraca auto o id=#{ID} z bazy
+* `.all` zwraca listę wszystkich aut w bazie w tablicy (Podpowiedź: po tablicy możesz iterować)
+* `.first` zwraca pierwsze auto z bazy
+* `.last` zwraca ostatnie auto z bazy
+* `.find(id)` zwraca auto o id=#{ID} z bazy
 
 ## Testy
 
