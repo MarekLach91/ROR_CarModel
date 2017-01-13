@@ -1,6 +1,6 @@
 # CarModel
 
-Biblioteka do pracy w trzecim module kursu Ruby on Rails (Dzien 1/2, część 5 zadań)
+Biblioteka do nauki pracy na RESTowych kontrolerach Edit
 
 ## Instalacja
 
