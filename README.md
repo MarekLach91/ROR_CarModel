@@ -1,6 +1,6 @@
 # CarModel
 
-Biblioteka do nauki pracy na RESTowych kontrolerach Edit
+Biblioteka do nauki pracy na RESTowych kontrolerach.
 
 ## Instalacja
 
